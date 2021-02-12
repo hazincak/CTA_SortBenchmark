@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ead487e-7069-498d-8793-b450810be5d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aXe1CcNd5rhzgWuEVNitF4CyIJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="AlgoRunner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortingAlg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortingAlg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.sortingAlg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ead487e-7069-498d-8793-b450810be5d5" name="Default Changelist" comment="" />
+      <created>1586886148474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586886148474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="-913" key="#com.intellij.ide.util.MemberChooser" timestamp="1586888241419">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="726" y="-913" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1586888241419" />
+    <state x="607" y="-973" key="#sortingAlg" timestamp="1586891688139">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="607" y="-973" key="#sortingAlg/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1586891688139" />
+    <state x="527" y="-1029" key="CommitChangelistDialog2" timestamp="1586971880239">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="527" y="-1029" key="CommitChangelistDialog2/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1586971880239" />
+    <state x="695" y="-857" key="FileChooserDialogImpl" timestamp="1587164463241">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="695" y="-857" key="FileChooserDialogImpl/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1587164463241" />
+    <state width="1481" height="189" key="GridCell.Tab.0.bottom" timestamp="1588522414255">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="189" key="GridCell.Tab.0.bottom/0.0.1536.834/5.-1080.1920.1050@0.0.1536.834" timestamp="1588522414255" />
+    <state width="1865" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1588437245774" />
+    <state width="1481" height="190" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588440915370" />
+    <state width="1481" height="189" key="GridCell.Tab.0.center" timestamp="1588522414255">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="189" key="GridCell.Tab.0.center/0.0.1536.834/5.-1080.1920.1050@0.0.1536.834" timestamp="1588522414255" />
+    <state width="1865" height="261" key="GridCell.Tab.0.center/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1588437245774" />
+    <state width="1481" height="190" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588440915370" />
+    <state width="1481" height="189" key="GridCell.Tab.0.left" timestamp="1588522414255">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="189" key="GridCell.Tab.0.left/0.0.1536.834/5.-1080.1920.1050@0.0.1536.834" timestamp="1588522414255" />
+    <state width="1865" height="261" key="GridCell.Tab.0.left/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1588437245774" />
+    <state width="1481" height="190" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588440915370" />
+    <state width="1481" height="189" key="GridCell.Tab.0.right" timestamp="1588522414255">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="189" key="GridCell.Tab.0.right/0.0.1536.834/5.-1080.1920.1050@0.0.1536.834" timestamp="1588522414255" />
+    <state width="1865" height="261" key="GridCell.Tab.0.right/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1588437245774" />
+    <state width="1481" height="190" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588440915370" />
+    <state width="1865" height="325" key="GridCell.Tab.1.bottom" timestamp="1587785339910">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="325" key="GridCell.Tab.1.bottom/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1587785339910" />
+    <state width="1865" height="325" key="GridCell.Tab.1.center" timestamp="1587785339910">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="325" key="GridCell.Tab.1.center/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1587785339910" />
+    <state width="1865" height="325" key="GridCell.Tab.1.left" timestamp="1587785339910">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="325" key="GridCell.Tab.1.left/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1587785339910" />
+    <state width="1865" height="325" key="GridCell.Tab.1.right" timestamp="1587785339910">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="325" key="GridCell.Tab.1.right/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1587785339910" />
+    <state x="695" y="-898" key="RollbackChangesDialog" timestamp="1586959118497">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="695" y="-898" key="RollbackChangesDialog/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1586959118497" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1588521512110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1536.834/5.-1080.1920.1050@0.0.1536.834" timestamp="1588521512110" />
+    <state x="317" y="-1080" key="SettingsEditor/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1588430421136" />
+    <state x="454" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1588521475938">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="454" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834/5.-1080.1920.1050@0.0.1536.834" timestamp="1588521475938" />
+    <state x="572" y="-772" key="com.intellij.ide.util.TipDialog/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1588430601409" />
+    <state x="454" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1588440525916" />
+    <state x="712" y="-808" key="git4idea.merge.GitMergeDialog" timestamp="1586959418068">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="712" y="-808" key="git4idea.merge.GitMergeDialog/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1586959418068" />
+    <state x="647" y="-808" key="git4idea.merge.GitPullDialog" timestamp="1586959387798">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="647" y="-808" key="git4idea.merge.GitPullDialog/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1586959387798" />
+    <state x="136" y="-1021" key="new project wizard" timestamp="1587862456015">
+      <screen x="5" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="136" y="-1021" key="new project wizard/0.0.1536.834/5.-1080.1920.1050@5.-1080.1920.1050" timestamp="1587862456015" />
+    <state x="341" y="186" key="run.anything.popup" timestamp="1588440857107">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="341" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1588440857107" />
+  </component>
+</project>
